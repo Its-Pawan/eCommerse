@@ -1,0 +1,20 @@
+.go-top{
+    display: none;
+}
+.main-nav {
+    justify-content: center;
+    align-items: center;
+}
+
+.main-nav ul{
+ display: none;
+}
+
+.body-container{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    bottom: 5px;
+}

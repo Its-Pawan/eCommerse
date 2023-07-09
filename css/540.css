@@ -1,0 +1,150 @@
+.def-margin-top {
+    margin-top: 0px;
+}
+
+.uni-padding {
+    padding: 0 40px;
+}
+.logo a img {
+    display: inline;
+}
+.logo a:nth-child(2){
+    display: none;
+}
+
+.container-data {
+    height: auto;
+}
+
+.container-h h3 {
+    font-size: 60px;
+}
+
+.main-container {
+    flex-direction: column;
+}
+.text {
+    width: 100%;
+}
+.text-image {
+    width: 100%;
+}
+#text-image-1{
+    display: none;
+}
+#text-image-2{
+    display: inline;
+}
+
+.text-image img {
+    width: 50%;
+}
+
+.row-lg-3 {
+    margin-top: 40px;
+}
+
+.row-box {
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    align-items: center;
+}
+.row-h2 h2 {
+    font-size: 50px;
+}
+.row-data-box {
+    margin: 15px 0;
+}
+.row-data-box h3 {
+    font-size: 25px;
+}
+.row-data-box p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.product {
+    justify-content: flex-start;
+    height: auto;
+}
+.product-data{
+    padding: 20px 0;
+}
+.product-data img {
+    width: 25rem;
+    height: 15rem;
+}
+.product-data h4 {
+    font-size: 30px;
+    padding: 0px 0px
+}
+
+
+.info-container {
+    height: auto;
+}
+.info-container {
+    flex-direction: column;
+    align-items: center;
+}
+.left-info-data {
+    width: 100%;
+}
+.left-info-data h2,h4{
+    text-align: center;
+}
+.left-info-data span{
+    text-align: center;
+    display: inline-block;
+}
+.right-info-data {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px 0;
+}
+.right-info-data img {
+    position: static;
+}
+
+
+.review-box {
+    height: 20rem;
+    margin: 20px 0;
+}
+.customers-reviews-cl-3{
+    margin: 30px 0 ;
+}
+.customers-reviews-h {
+    position: static;
+}
+.customers-reviews {
+    height: auto;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+
+
+.footer-menu {
+    flex-direction: column;
+    height: 10rem;
+    justify-content: space-evenly;
+}
+.info-logo {
+    width: 100%;
+}
+.info-logo a img{
+    display: none;
+}
+.info-logo p {
+    text-align: center;
+    width: 100%;
+}
+
+.copyright {
+    width: 100%;
+    text-align: center;
+}

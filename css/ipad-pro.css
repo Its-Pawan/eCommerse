@@ -1,0 +1,17 @@
+
+
+.logo a {
+    letter-spacing: 2px;
+}
+.logo a h1{
+    font-size: 22px;
+}
+#slider img {
+    bottom: 20rem;
+}
+.row-box{
+    margin: 10px;
+}
+.row-data-box h3{
+    font-size: 26px;
+}
